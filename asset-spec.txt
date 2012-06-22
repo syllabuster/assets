@@ -2,7 +2,7 @@ ASSET Specs and Offsets
 -----------------------
 
 
-dashboard-add-course.png
+dashboard-add-course
   width: 78pt
   height: 58pt
   offsets:
@@ -15,13 +15,13 @@ dashboard-add-course.png
     - middle repeating space 10pt instead of 1pt so it will tile instead of stretch
 
 
-dashboard-add-course-icon.png
+dashboard-add-course-icon
   width: 145pt
   height: 21pt
   notes:
     - currently includes text, will eventually just be the icon
 
-dashboard-empty-check.png
+dashboard-empty-check
   width: 57pt
   height: 57pt
 
