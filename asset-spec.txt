@@ -1,0 +1,18 @@
+ASSET Specs and Offsets
+-----------------------
+
+
+dashboard-add-course:
+  size:
+    width: 78pt
+    height: 58pt
+  offsets:
+    top:    0
+    left:   34pt
+    bottom: 0
+    right:  34pt
+  notes:
+    - no vertical offsets due to its non-flexible height
+    - middle repeating space 10pt instead of 1pt so it will tile instead of stretch
+  
+
