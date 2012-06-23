@@ -1,6 +1,25 @@
-ASSET Specs and Offsets
------------------------
+MILESTONE
+---------
 
+milestone-divider-default
+  width: 1pt
+  height: 18pt
+  previous version: day-divider
+  notes:
+    - used to be full width (320pt), now repeating 1pt
+
+milestone-divider-blue
+  width: 1pt
+  height: 18pt
+  previous version: blue-divider
+  notes:
+    - used to be full width (320pt), now repeating 1pt
+
+
+
+
+DASHBOARD
+---------
 
 dashboard-add-course
   width: 78pt
@@ -26,6 +45,11 @@ dashboard-empty-check
   width: 57pt
   height: 57pt
 
+
+
+
+ICON
+----
 
 icon-black-join
   width: 14pt
