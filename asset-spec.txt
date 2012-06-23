@@ -21,9 +21,15 @@ dashboard-add-course-icon
   notes:
     - currently includes text, will eventually just be the icon
 
+
 dashboard-empty-check
   width: 57pt
   height: 57pt
+
+
+icon-black-join
+  width: 14pt
+  height: 11pt
 
 
 
