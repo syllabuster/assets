@@ -109,6 +109,12 @@ milestone-bkgd-double-pressed-XYY     // X:theme YY:color
   height: 81pt
   previous version: *color*-milestone-cell-double-pressed
 
+milestone-date-button
+  width: 21pt
+  height: 33pt
+  offset: 0 10pt 0 10pt
+  previous version: add-date-button
+  
 
 CARD
 ----
