@@ -95,6 +95,17 @@ milestone-cell-double-prev
   notes:
     - used to be a full width, now strechable
 
+milestone-cell-button
+  width: 21pt
+  height: 33pt
+  offset: 0 10pt 0 10pt
+  previous version: add-date-button
+
+milestone-cell-icon-arrow
+  width: 7pt
+  height: 11pt
+  previous version: icon-disclosure-indicator    
+
 milestone-divider-default
   width: 1pt
   height: 18pt
@@ -128,12 +139,6 @@ milestone-bkgd-double-pressed-XYY     // X:theme YY:color
   width: 1pt
   height: 81pt
   previous version: *color*-milestone-cell-double-pressed
-
-milestone-date-button
-  width: 21pt
-  height: 33pt
-  offset: 0 10pt 0 10pt
-  previous version: add-date-button
 
 milestone-icon-check-XYY              // X:theme YY:color    leave blank for defualt(pressed) white icons
   width: 27pt
