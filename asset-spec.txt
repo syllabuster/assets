@@ -41,7 +41,15 @@ header-icon-back
 header-icon-back-pressed
   width: 19pt
   height: 18pt
-  previous version: icon-back-pressed  
+  previous version: icon-back-pressed
+
+header-icon-add
+  width: 19pt
+  height: 18pt
+
+header-icon-add-pressed
+  width: 19pt
+  height: 18pt  
 
 
 MILESTONE
