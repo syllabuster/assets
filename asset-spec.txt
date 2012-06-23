@@ -27,7 +27,6 @@ header-logo
 MILESTONE
 ---------
 
-
 milestone-cell-single
   width: 2pt
   height: 63pt
@@ -111,6 +110,26 @@ milestone-bkgd-double-pressed-XYY     // X:theme YY:color
   previous version: *color*-milestone-cell-double-pressed
 
 
+CARD
+----
+
+card-bkgd
+  width: 1pt
+  height: 91pt
+  previous version: gray-card
+
+card-button
+  width: 27pt
+  height: 37pt
+  offset: 0 13pt 0 13pt
+  previous version: gray-card-button
+
+card-button-pressed
+  width: 27pt
+  height: 37pt
+  offset: 0 13pt 0 13pt
+  previous version: gray-card-button-pressed
+
 
 DASHBOARD
 ---------
@@ -132,7 +151,6 @@ dashboard-add-course-icon
 dashboard-empty-check
   width: 57pt
   height: 57pt
-
 
 
 ICON
