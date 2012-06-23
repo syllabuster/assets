@@ -23,6 +23,26 @@ header-logo
   height: 26pt
   previous version: syllabuster-logo
 
+header-icon-menu
+  width: 19pt
+  height: 18pt
+  previous version: icon-menu
+
+header-icon-menu-pressed
+  width: 19pt
+  height: 18pt
+  previous version: icon-menu-pressed
+
+header-icon-back
+  width: 19pt
+  height: 18pt
+  previous version: icon-back
+
+header-icon-back-pressed
+  width: 19pt
+  height: 18pt
+  previous version: icon-back-pressed  
+
 
 MILESTONE
 ---------
