@@ -159,6 +159,27 @@ dashboard-empty-check
   height: 57pt
 
 
+MENU
+----
+
+menu-cell-bkgd
+  width: 320pt
+  height: 56pt
+  note:
+    - requires a full width image due to the dither effect stopping banding
+
+menu-acct-bkgd-mask
+  width: 320pt
+  height: 150pt
+
+menu-avatar-mask
+  width: 60pt
+  height: 60pt
+
+menu-avatar-shadow
+  width: 60pt
+  height: 60pt
+
 ICON
 ----
 
