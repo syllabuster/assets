@@ -1,3 +1,29 @@
+HEADER
+------
+
+header-bkgd-XYY               // X:theme YY:color  leave blank "header-bkgd" for default blue
+  width: 320pt
+  height: 44pt
+  previous version: *color*-header-bkgd
+
+header-button-XYY             // X:theme YY:color  leave blank "header-bkgd" for default blue
+  width: 25pt
+  height: 33pt
+  offset: 0 12pt 0 12pt
+  previous version: *color*-header-button
+
+header-button-pressed-XYY     // X:theme YY:color  leave blank "header-bkgd" for default blue
+  width: 25pt
+  height: 33pt
+  offset: 0 12pt 0 12pt
+  previous version: *color*-header-button-pressed
+
+header-logo
+  width: 110pt
+  height: 26pt
+  previous version: syllabuster-logo
+
+
 MILESTONE
 ---------
 
