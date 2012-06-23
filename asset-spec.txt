@@ -180,6 +180,28 @@ menu-avatar-shadow
   width: 60pt
   height: 60pt
 
+menu-icon-add-course
+  width: 148pt
+  height: 26pt
+  previous version: icon-menu-add-course
+  notes:
+    - includes text right now until we solve text gradients and multiple shadows
+
+menu-icon-settings
+  width: 100pt
+  height: 26pt
+  previous version: icon-menu-settings
+  notes:
+    - includes text right now until we solve text gradients and multiple shadows
+
+menu-icon-logout
+  width: 90pt
+  height: 26pt
+  previous version: icon-menu-logout
+  notes:
+    - includes text right now until we solve text gradients and multiple shadows
+
+
 ICON
 ----
 
