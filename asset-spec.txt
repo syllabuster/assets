@@ -1,6 +1,55 @@
 MILESTONE
 ---------
 
+
+milestone-cell-single
+  width: 2pt
+  height: 63pt
+  previous version: white-milestone-cell-single
+  offset: 0 1pt 0 0
+  notes:
+    - used to be a full width, now strechable
+
+milestone-cell-single-pressed
+  width: 2pt
+  height: 63pt
+  previous version: white-milestone-cell-single-pressed
+  offset: 0 1pt 0 0
+  notes:
+    - used to be a full width, now strechable
+
+milestone-cell-single-prev
+  width: 2pt
+  height: 63pt
+  previous version: white-milestone-cell-single-prev
+  offset: 0 1pt 0 0
+  notes:
+    - used to be a full width, now strechable
+
+milestone-cell-double
+  width: 2pt
+  height: 81pt
+  previous version: white-milestone-cell-double
+  offset: 0 1pt 0 0
+  notes:
+    - used to be a full width, now strechable
+
+milestone-cell-double-pressed
+  width: 2pt
+  height: 81pt
+  previous version: white-milestone-cell-double-pressed
+  offset: 0 1pt 0 0
+  notes:
+    - used to be a full width, now strechable
+
+milestone-cell-double-prev
+  width: 2pt
+  height: 81pt
+  previous version: white-milestone-cell-double-prev
+  offset: 0 1pt 0 0
+  notes:
+    - used to be a full width, now strechable
+
 milestone-divider-default
   width: 1pt
   height: 18pt
@@ -17,22 +66,16 @@ milestone-divider-blue
 
 
 
-
 DASHBOARD
 ---------
 
 dashboard-add-course
   width: 78pt
   height: 58pt
-  offsets:
-    top:    0
-    left:   34pt
-    bottom: 0
-    right:  34pt
+  offset: 0 34pt 0 34pt
   notes:
     - no vertical offsets due to its non-flexible height
     - middle repeating space 10pt instead of 1pt so it will tile instead of stretch
-
 
 dashboard-add-course-icon
   width: 145pt
@@ -40,11 +83,9 @@ dashboard-add-course-icon
   notes:
     - currently includes text, will eventually just be the icon
 
-
 dashboard-empty-check
   width: 57pt
   height: 57pt
-
 
 
 
@@ -54,8 +95,3 @@ ICON
 icon-black-join
   width: 14pt
   height: 11pt
-
-
-
-
-
