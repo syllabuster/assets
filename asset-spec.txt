@@ -114,6 +114,26 @@ milestone-date-button
   height: 33pt
   offset: 0 10pt 0 10pt
   previous version: add-date-button
+
+milestone-icon-check-XYY              // X:theme YY:color    leave blank for defualt(pressed) white icons
+  width: 27pt
+  height: 27pt
+  previous version: icon-milestone-check-*color*
+
+milestone-icon-add-XYY              // X:theme YY:color    leave blank for defualt(pressed) white icons
+  width: 27pt
+  height: 27pt
+  previous version: icon-milestone-add-*color*
+
+milestone-icon-share-XYY              // X:theme YY:color    leave blank for defualt(pressed) white icons
+  width: 27pt
+  height: 27pt
+  previous version: icon-milestone-share-*color*
+
+milestone-icon-edit-XYY              // X:theme YY:color    leave blank for defualt(pressed) white icons
+  width: 27pt
+  height: 27pt
+  previous version: icon-milestone-edit-*color*
   
 
 CARD
