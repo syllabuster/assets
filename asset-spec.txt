@@ -176,6 +176,16 @@ card-button-pressed
   offset: 0 13pt 0 13pt
   previous version: gray-card-button-pressed
 
+card-button-icon-gear
+  width: 18pt
+  height: 18pt
+  previous version: icon-black-gear
+
+card-button-icon-join
+  width: 18pt
+  height: 18pt
+  previous version: icon-black-join  
+
 
 DASHBOARD
 ---------
@@ -240,11 +250,3 @@ menu-icon-logout
   previous version: icon-menu-logout
   notes:
     - includes text right now until we solve text gradients and multiple shadows
-
-
-ICON
-----
-
-icon-black-join
-  width: 14pt
-  height: 11pt
