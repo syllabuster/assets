@@ -140,7 +140,7 @@ card-button-pressed
 DASHBOARD
 ---------
 
-dashboard-add-course
+dashboard-add-course-button
   width: 78pt
   height: 58pt
   offset: 0 34pt 0 34pt
