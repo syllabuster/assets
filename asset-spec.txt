@@ -64,6 +64,26 @@ milestone-divider-blue
   notes:
     - used to be full width (320pt), now repeating 1pt
 
+milestone-bkgd-single-XYY             // X:theme YY:color
+  width: 1pt
+  height: 63pt
+  previous version: *color*-milestone-cell-single
+
+milestone-bkgd-single-pressed-XYY     // X:theme YY:color
+  width: 1pt
+  height: 63pt
+  previous version: *color*-milestone-cell-single-pressed
+
+milestone-bkgd-double-XYY             // X:theme YY:color
+  width: 1pt
+  height: 81pt
+  previous version: *color*-milestone-cell-double
+
+milestone-bkgd-double-pressed-XYY     // X:theme YY:color
+  width: 1pt
+  height: 81pt
+  previous version: *color*-milestone-cell-double-pressed
+
 
 
 DASHBOARD
