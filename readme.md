@@ -6,49 +6,49 @@
   hex: #197899
   uicolor: [UIColor colorWithRed:0.098 green:0.471 blue:0.600 alpha:1]
 ```
-***
+
 ![](http://placehold.it/100/E15023/ffffff.png&text=101)
 ### Orange
 ```
   hex: #E15023
   uicolor: [UIColor colorWithRed:0.882 green:0.314 blue:0.137 alpha:1]
 ```
-***
+
 ![](http://placehold.it/100/832D99/ffffff.png&text=102)
 ### Purple
 ```
   hex: #832D99
   uicolor: [UIColor colorWithRed:0.514 green:0.176 blue:0.600 alpha:1]
 ```
-***
+
 ![](http://placehold.it/100/29A54F/ffffff.png&text=103)
 ### Green
 ```
   hex: #29A54F
   uicolor: [UIColor colorWithRed:0.161 green:0.647 blue:0.310 alpha:1]
 ```
-***
+
 ![](http://placehold.it/100/229EAE/ffffff.png&text=104)
 ### Teal
 ```
   hex: #229EAE
   uicolor: [UIColor colorWithRed:0.133 green:0.620 blue:0.682 alpha:1]
 ```
-***
+
 ![](http://placehold.it/100/CC2238/ffffff.png&text=105)
 ### Red
 ```
   hex: #CC2238
   uicolor: [UIColor colorWithRed:0.800 green:0.133 blue:0.220 alpha:1]
 ```
-***
+
 ![](http://placehold.it/100/F5BD37/ffffff.png&text=106)
 ### Yellow
 ```
   hex: #F5BD37
   uicolor: [UIColor colorWithRed:0.961 green:0.741 blue:0.216 alpha:1]
 ```
-***
+
 ![](http://placehold.it/100/DB388F/ffffff.png&text=107)
 ### Pink
 ```
