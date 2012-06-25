@@ -6,13 +6,13 @@ header-bkgd-XYY               // X:theme YY:color  leave blank "header-bkgd" for
   height: 44pt
   previous version: *color*-header-bkgd
 
-header-button-XYY             // X:theme YY:color  leave blank "header-bkgd" for default blue
+header-button-XYY             // X:theme YY:color  leave blank "header-button" for default blue
   width: 25pt
   height: 33pt
   offset: 0 12pt 0 12pt
   previous version: *color*-header-button
 
-header-button-pressed-XYY     // X:theme YY:color  leave blank "header-bkgd" for default blue
+header-button-pressed-XYY     // X:theme YY:color  leave blank "header-button-pressed" for default blue
   width: 25pt
   height: 33pt
   offset: 0 12pt 0 12pt
