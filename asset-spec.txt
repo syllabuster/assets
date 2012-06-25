@@ -263,3 +263,48 @@ menu-icon-logout
   previous version: icon-menu-logout
   notes:
     - includes text right now until we solve text gradients and multiple shadows
+
+
+
+COLORS
+------
+
+100:
+  name: blue, default
+  hex: #197899
+  uicolor: [UIColor colorWithRed:0.098 green:0.471 blue:0.600 alpha:1]
+
+101:
+  name: orange
+  hex: #E15023
+  uicolor: [UIColor colorWithRed:0.882 green:0.314 blue:0.137 alpha:1]
+
+102:
+  name: purple
+  hex: #832D99
+  uicolor: [UIColor colorWithRed:0.514 green:0.176 blue:0.600 alpha:1]
+
+103:
+  name: green
+  hex: #29A54F
+  uicolor: [UIColor colorWithRed:0.161 green:0.647 blue:0.310 alpha:1]
+
+104:
+  name: teal
+  hex: #229EAE
+  uicolor: [UIColor colorWithRed:0.133 green:0.620 blue:0.682 alpha:1]
+
+105:
+  name: red
+  hex: #CC2238
+  uicolor: [UIColor colorWithRed:0.800 green:0.133 blue:0.220 alpha:1]
+
+106:
+  name: yellow
+  hex: #F5BD37
+  uicolor: [UIColor colorWithRed:0.961 green:0.741 blue:0.216 alpha:1]
+
+107:
+  name: pink
+  hex: #DB388F
+  uicolor: [UIColor colorWithRed:0.859 green:0.220 blue:0.561 alpha:1]
