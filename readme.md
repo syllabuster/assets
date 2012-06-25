@@ -70,6 +70,22 @@
   uicolor: [UIColor colorWithRed:0.859 green:0.220 blue:0.561 alpha:1]
 ```
 
+## Background Colors
+
+![](http://placehold.it/100/E6E9EB/ffffff.png)
+### Default
+```
+  hex: #E6E9EB
+  uicolor: [UIColor colorWithRed:0.902 green:0.914 blue:0.922 alpha:1]
+```
+
+![](http://placehold.it/100/E4ECF0/ffffff.png)
+### Dashboard
+```
+  hex: #E4ECF0
+  uicolor: [UIColor colorWithRed:0.894 green:0.925 blue:0.941 alpha:1]
+```
+
 ***
 
 # Assets
