@@ -288,6 +288,13 @@ leave blank for default(pressed) white icons
 ```
 `X:theme YY:color`
 leave blank for default(pressed) white icons
+
+### milestone-icon-complete-XYY
+```
+  width: 18pt
+  height: 14pt
+```
+`X:theme YY:color`
   
 
 ## Card
