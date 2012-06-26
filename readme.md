@@ -416,3 +416,32 @@ Includes text right now until we solve text gradients and multiple shadows.
   height: 26pt
 ```
 Includes text right now until we solve text gradients and multiple shadows.
+
+
+## Signup
+
+### signup-bkgd
+```
+  width: 320pt
+  height: 460pt
+```
+Will eventually be more dynamic than just a single static photo,
+
+### signup-logo
+```
+  width: 163pt
+  height: 36pt
+```
+
+### signup-connect-fb
+```
+  width: 280pt
+  height: 82pt
+```
+Still need to build out a pressed state.
+
+### signup-email-bkgd
+```
+  width: 280pt
+  height: 66pt
+```
