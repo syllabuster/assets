@@ -1,6 +1,6 @@
 # Colors
 
-![](http://placehold.it/100/197899/ffffff.png&text=)
+![](http://placehold.it/100/197899/197899.png)
 ### Blue (default)
 ```
   hex: #197899
@@ -72,14 +72,14 @@
 
 ## Background Colors
 
-![](http://placehold.it/100/E6E9EB/ffffff.png&text=)
+![](http://placehold.it/100/E6E9EB/E6E9EB.png)
 ### Default
 ```
   hex: #E6E9EB
   uicolor: [UIColor colorWithRed:0.902 green:0.914 blue:0.922 alpha:1]
 ```
 
-![](http://placehold.it/100/E4ECF0/ffffff.png&text=)
+![](http://placehold.it/100/E4ECF0/E4ECF0.png)
 ### Dashboard
 ```
   hex: #E4ECF0
