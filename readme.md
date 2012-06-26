@@ -86,6 +86,20 @@
   uicolor: [UIColor colorWithRed:0.894 green:0.925 blue:0.941 alpha:1]
 ```
 
+## Font Colors
+
+### Dashboard Dark
+```
+  hex: #5F6A73
+  uicolor: [UIColor colorWithRed:0.373 green:0.416 blue:0.451 alpha:1]
+```
+
+### Dashboard Light
+```
+  hex: #9BA1A4
+  uicolor: [UIColor colorWithRed:0.608 green:0.631 blue:0.643 alpha:1]
+```
+
 ***
 
 # Assets
