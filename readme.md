@@ -100,6 +100,12 @@
   uicolor: [UIColor colorWithRed:0.608 green:0.631 blue:0.643 alpha:1]
 ```
 
+### Dashboard Divider Text
+```
+  hex: #687a83
+  uicolor: [UIColor colorWithRed:0.396 green:0.463 blue:0.490 alpha:1]
+```
+
 ***
 
 # Assets
