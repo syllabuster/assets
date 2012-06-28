@@ -106,6 +106,12 @@
   uicolor: [UIColor colorWithRed:0.396 green:0.463 blue:0.490 alpha:1]
 ```
 
+### Signup Input Text
+```
+  hex: #6D7B81
+  uicolor: [UIColor colorWithRed:0.427 green:0.482 blue:0.506 alpha:1]
+```
+
 ***
 
 # Assets
