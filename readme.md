@@ -523,3 +523,10 @@ Still need to build out a pressed state.
   width: 46pt
   height: 46pt
 ```
+
+![](https://dl.dropbox.com/s/ukreijxhhry3wqh/profile-facebook-button%402x.png)
+### profile-facebook-button
+```
+  width: 33pt
+  height: 33pt
+```
