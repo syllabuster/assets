@@ -433,7 +433,7 @@ Requires a full width image due to the dither effect stopping banding.
 ### menu-acct-bkgd-mask
 ```
   width: 320pt
-  height: 150pt
+  height: 300pt
 ```
 
 ![](https://dl.dropbox.com/s/w5bqp6kjxmfht24/menu-avatar-mask%402x.png)
