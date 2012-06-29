@@ -506,3 +506,20 @@ Still need to build out a pressed state.
   width: 280pt
   height: 66pt
 ```
+
+
+## Profile
+
+![](https://dl.dropbox.com/s/n3cs4mtql5tx6im/profile-avatar-mask%402x.png)
+### profile-avatar-mask
+```
+  width: 46pt
+  height: 46pt
+```
+
+![](https://dl.dropbox.com/s/npv1csynmqef2y2/profile-avatar-shadow%402x.png)
+### profile-avatar-shadow
+```
+  width: 46pt
+  height: 46pt
+```
