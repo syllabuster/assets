@@ -429,6 +429,15 @@ Currently includes text, will eventually just be the icon.
 ```
 Requires a full width image due to the dither effect stopping banding.
 
+![](https://dl.dropbox.com/s/lz9fo2uneoqy40j/menu-course-bkgd%402x.png)
+### menu-course-bkgd-XYY
+```
+  width: 1pt
+  height: 56pt
+```
+`X:theme YY:color`
+leave blank "menu-course-bkgd" for default blue
+
 ![](https://dl.dropbox.com/s/qbmrqsk9br9j4dd/menu-acct-bkgd-mask%402x.png)
 ### menu-acct-bkgd-mask
 ```
