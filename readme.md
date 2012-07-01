@@ -538,3 +538,40 @@ Still need to build out a pressed state.
   width: 33pt
   height: 33pt
 ```
+
+## Milestone Detail
+
+![](https://dl.dropbox.com/s/nqb9ofv71w96xjg/milestone-detail-avatar-mask%402x.png)
+### milestone-detail-avatar-mask
+```
+  width: 31pt
+  height: 32pt
+```
+
+![](https://dl.dropbox.com/s/vzqfiyud6oyfe5j/milestone-detail-avatar-shadow%402x.png)
+### milestone-detail-avatar-shadow
+```
+  width: 31pt
+  height: 32pt
+```
+
+![](https://dl.dropbox.com/s/hyxeahmmjpx4gfn/milestone-detail-divider%402x.png)
+### milestone-detail-divider
+```
+  width: 1pt
+  height: 18pt
+```
+
+![](https://dl.dropbox.com/s/prqpje8h59askyz/milestone-detail-checkbox%402x.png)
+### milestone-detail-checkbox
+```
+  width: 1pt
+  height: 18pt
+```
+
+![](https://dl.dropbox.com/s/w7dqtu8ahrxtmgq/milestone-detail-more-button%402x.png)
+### milestone-detail-more-button
+```
+  width: 58pt
+  height: 30pt
+```
