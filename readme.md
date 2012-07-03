@@ -196,6 +196,20 @@ leave blank "header-button-pressed" for default blue
   height: 18pt
 ```
 
+![](https://dl.dropbox.com/s/pnqyo6eal64t6kz/header-icon-gear%402x.png)
+### header-icon-gear
+```
+  width: 19pt
+  height: 18pt
+```
+
+![](https://dl.dropbox.com/s/h040zisvej362iy/header-icon-gear-pressed%402x.png)
+### header-icon-gear-pressed
+```
+  width: 19pt
+  height: 18pt
+```
+
 ## Milestone
 
 ![](https://dl.dropbox.com/s/zkdn6xhhsu8mw30/milestone-cell-single%402x.png)
