@@ -575,3 +575,11 @@ Still need to build out a pressed state.
   width: 58pt
   height: 30pt
 ```
+
+![](https://dl.dropbox.com/s/mka84ch48bre0jh/milestone-detail-card-bkgd%402x.png)
+### milestone-detail-card-bkgd
+```
+  width: 1pt
+  height: 91pt
+```
+Should flow `1pt` into bottom section.
