@@ -565,8 +565,8 @@ Still need to build out a pressed state.
 ![](https://dl.dropbox.com/s/prqpje8h59askyz/milestone-detail-checkbox%402x.png)
 ### milestone-detail-checkbox
 ```
-  width: 1pt
-  height: 18pt
+  width: 25pt
+  height: 25pt
 ```
 
 ![](https://dl.dropbox.com/s/w7dqtu8ahrxtmgq/milestone-detail-more-button%402x.png)
