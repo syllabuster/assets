@@ -597,3 +597,26 @@ Still need to build out a pressed state.
   height: 91pt
 ```
 Should flow `1pt` into bottom section.
+
+## Walkthrough
+
+![](https://dl.dropbox.com/s/6wq6a5s0lljueze/walkthrough-step1%402x.png)
+### walkthrough-step1
+```
+  width: 320pt
+  height: 460pt
+```
+
+![](https://dl.dropbox.com/s/jrevyy83cezgj0s/walkthrough-step2%402x.png)
+### walkthrough-step2
+```
+  width: 320pt
+  height: 460pt
+```
+
+![](https://dl.dropbox.com/s/zopxqw48t8f4esk/walkthrough-step3%402x.png)
+### walkthrough-step3
+```
+  width: 320pt
+  height: 460pt
+```
