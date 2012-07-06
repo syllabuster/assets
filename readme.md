@@ -488,6 +488,14 @@ Includes text right now until we solve text gradients and multiple shadows.
 ```
 Includes text right now until we solve text gradients and multiple shadows.
 
+![](https://dl.dropbox.com/s/bg5wfbsq1nih0jd/menu-icon-timeline-sync%402x.png)
+### menu-icon-timeline-sync
+```
+  width: 149pt
+  height: 26pt
+```
+Includes text right now until we solve text gradients and multiple shadows.
+
 ![](https://dl.dropbox.com/s/qoyezeej6ozk5xv/menu-icon-logout%402x.png)
 ### menu-icon-logout
 ```
