@@ -496,6 +496,14 @@ Includes text right now until we solve text gradients and multiple shadows.
 ```
 Includes text right now until we solve text gradients and multiple shadows.
 
+![](https://dl.dropbox.com/s/mr6fr4ng3xvx4h2/menu-icon-feedback%402x.png)
+### menu-icon-feedback
+```
+  width: 112pt
+  height: 26pt
+```
+Includes text right now until we solve text gradients and multiple shadows.
+
 ![](https://dl.dropbox.com/s/qoyezeej6ozk5xv/menu-icon-logout%402x.png)
 ### menu-icon-logout
 ```
