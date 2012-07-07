@@ -636,3 +636,17 @@ Should flow `1pt` into bottom section.
   width: 320pt
   height: 460pt
 ```
+
+![](https://dl.dropbox.com/s/uolz6rpjmel4yhk/walkthrough-sync-button%402x.png)
+### walkthrough-sync-button
+```
+  width: 244pt
+  height: 52pt
+```
+
+![](https://dl.dropbox.com/s/hffi0ydke08wpha/walkthrough-synced-button%402x.png)
+### walkthrough-synced-button
+```
+  width: 244pt
+  height: 52pt
+```
