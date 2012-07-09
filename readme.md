@@ -275,6 +275,20 @@ leave blank "header-button-pressed" for default blue
   height: 11pt
 ```
 
+![](https://dl.dropbox.com/s/5ybhbkypvz6ckdt/milestone-cell-icon-check%402x.png)
+### milestone-cell-icon-check
+```
+  width: 16pt
+  height: 13pt
+```
+
+![](https://dl.dropbox.com/s/np9l012tmi5nyxf/milestone-cell-icon-test%402x.png)
+### milestone-cell-icon-test
+```
+  width: 33pt
+  height: 16pt
+```
+
 ![](https://dl.dropbox.com/s/gj1ifuzoccdluvs/milestone-divider-default%402x.png)
 ### milestone-divider-default
 ```
