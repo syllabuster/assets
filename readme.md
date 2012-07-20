@@ -664,3 +664,13 @@ Should flow `1pt` into bottom section.
   width: 244pt
   height: 52pt
 ```
+
+
+
+## Search
+![](https://dl.dropbox.com/s/4bj0lzk1m73vm3g/course-cell-bkgd%402x.png)
+### course-cell-bkgd
+```
+  width: 1pt
+  height: 63pt
+```
